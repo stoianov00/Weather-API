@@ -1,0 +1,1 @@
+this is simple weather api, easy to code . 
