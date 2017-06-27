@@ -12,9 +12,8 @@ $(document).ready(function (){
                     let widget = show(data);
                     $("#show").html(widget);
                     $("#city").val("");
-                }
-                
-                // TODO: function to success
+                }                
+               
             })
 
         }
@@ -41,12 +40,6 @@ function show(data){
     return weatherData;
 
 }
-
-
-
-
-
-
 
 
 })
