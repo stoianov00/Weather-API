@@ -1,1 +1,1 @@
-this is simple weather api, easy to code . 
+this is simple weather api. 
